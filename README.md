@@ -1,6 +1,8 @@
-### :cn: SynZhang
+### SynZhang
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=synzhang&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
+<img src="https://contribution.catsjuice.com/_/SynZhang?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=3&animation_delay=0.03&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=19_3&format=svg&weeks=40" />
 
 <!--
 - 🔭 I’m currently working on ...
