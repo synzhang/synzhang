@@ -1,11 +1,11 @@
 ### SynZhang
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=synzhang&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
-
-- 📫 How to reach me: <a href="https://twitter.com/SynZhang" target="_blank">@synzhang</a>
-- 💻 Programming languages: HTML/CSS/JavaScript/TypeScript/Ruby
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=synzhang&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synzhang&hide_title=true&layout=compact&langs_count=8" alt="Top Langs" />
 
 <!--
+- 📫 How to reach me: <a href="https://twitter.com/SynZhang" target="_blank">@synzhang</a>
+- 💻 Programming languages: HTML/CSS/JavaScript/TypeScript/Ruby
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
