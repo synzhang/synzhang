@@ -14,3 +14,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Projects
+
+1. [State of Dev](https://stateofdev.leanevo.com/): Discover new software development trends.
+2. [Free Sudoku](https://sudoku.leanevo.com/): A online free sudoku.
